@@ -20,15 +20,20 @@ I design and ship production applications — not prototypes. My work spans mobi
 
 I work remotely with founders and teams, in **English**, **French**, and **Arabic**.
 
-### What I'm building
+### What I'm building 
+**SAHHA GUARD** — [repo](https://github.com/djamalh501-spec/sahha-guard) — an offline-first Android app for midwives in low-connectivity clinics. Built for the Gemma 4 Good Hackathon. The design keeps the language model in extraction mode only, while a deterministic rule engine owns every clinical decision — because in healthcare, a hallucinated recommendation is not an acceptable failure mode. Flutter frontend, Python rule engine, on-device inference via MediaPipe.
 
-**DZ Pédiatrie AI** — a clinical assistant for pediatricians. Flutter + FastAPI, with on-device AI so it stays usable without connectivity.
+**DZ Pédiatrie AI** *(private — clinical data; walkthrough on request)* — a clinical assistant for pediatricians. Flutter + FastAPI, with on-device AI so it stays usable without connectivity.
 
-**SAHHA GUARD** — an offline-first Android app for nurses in low-connectivity clinics. Built for the Gemma 4 Good Hackathon. The design keeps the language model in extraction mode only, while a deterministic rule engine owns every clinical decision — because in healthcare, a hallucinated recommendation is not an acceptable failure mode. Flutter frontend, Python rule engine, on-device inference via MediaPipe. Training corpus published as an open dataset.
+**APEX MIND** *(private)* — a football analytics platform that turns raw match data into performance insight for players and agents.
 
-**APEX MIND** — a football analytics platform that turns raw match data into performance insight for players and agents.
+**Biohub — Cell Tracking During Development** *(competition in progress)* — active Kaggle entry: detecting and tracking individual cells across 3D zebrafish embryo microscopy volumes. Classical baseline first (centroid detection + ultrack), then deep learning.
 
-**Biohub — Cell Tracking During Development** — active Kaggle competition entry: detecting and tracking individual cells across 3D zebrafish embryo microscopy volumes. Classical baseline first (centroid detection + ultrack), then deep learning.
+
+
+
+
+
 
 ### Tech
 
