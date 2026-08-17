@@ -48,7 +48,18 @@ I work remotely with founders and teams, in **English**, **French**, and **Arabi
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 **Focus areas:** cross-platform mobile · REST API design · LLM integration · RAG · on-device ML · computer vision · software architecture
+### 🏭 Pour les entreprises industrielles
 
+Je construis des outils qui **automatisent la saisie de vos documents** — bons de commande,
+factures fournisseurs, certificats matière : lecture automatique, données vérifiées valeur
+par valeur, hébergées **sur votre serveur**.
+
+La même architecture que mes projets critiques (le modèle extrait, un moteur de règles
+déterministe valide chaque donnée) — appliquée à vos flux administratifs.
+
+**Projet au forfait · financé jusqu'à 50 % par la Région Grand Est.**
+
+→ **[Voir la démonstration](https://djamal-document-automation.netlify.app)** · 📧 djamal.dev1974@gmail.com
 ### Work with me
 
 I take on freelance and contract work — mobile apps, backend systems, and AI features.
